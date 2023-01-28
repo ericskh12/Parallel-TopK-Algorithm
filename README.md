@@ -4,7 +4,7 @@ CS3103 Operating System course project: Multi-threaded version TopK Algorithm.
 
 Group 30: SEW Kin Hang, LOK Chun Pan
 
-Report: CS3103_Group30_Project_Report
+Report: CS3103_Group30_Project_Report.pdf
 
 ## Problem Description
 
